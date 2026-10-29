@@ -1,0 +1,21 @@
+@import "tailwindcss";
+*{
+  /*  margin: 0;
+    padding: 0;
+    box-sizing: border-box;*/
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+header{
+    padding: 10px;
+}
+.a1>div:first-of-type>div:nth-of-type(2)>div:nth-of-type(3){
+margin-top: 19px;
+}
+.a3{ 
+    
+    margin: auto;
+}
